@@ -6,4 +6,11 @@
 
 2) Random Password Generator:
 
-   -Get the password lrngth from user and generate a random password.
+    -User Input: Prompt the user to specify the desired length of the
+
+password.
+
+Generate Password: Use a combination of random characters to
+
+generate a password of the specified length.
+   -Get the password length from user and generate a random password.
