@@ -6,11 +6,6 @@
 
 2) Random Password Generator:
 
-    -User Input: Prompt the user to specify the desired length of the
+    -User Input: T user specifies the desired length of the password.
+    -Generate Password: Uses a combination of random characters to generate a password of the specified length.
 
-password.
-
-Generate Password: Use a combination of random characters to
-
-generate a password of the specified length.
-   -Get the password length from user and generate a random password.
