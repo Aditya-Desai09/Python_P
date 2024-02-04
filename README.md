@@ -16,5 +16,5 @@
 
     -User can add task, remove task, select a random task and also delete all task added in one click.
 
-    -Implemented a dark theme to showcase the importance of UI/UX design in application development.
+    -Implemented a dark theme.
 
